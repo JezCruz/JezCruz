@@ -24,7 +24,7 @@
 ---
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak]([(https://github-readme-stats.vercel.app/)])
 
 ---
 
