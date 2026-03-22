@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jez</h1>
+<h3 align="center">💻 Aspiring Full Stack Developer</h3>
 
-<!--
-**JezCruz/JezCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on: Python Projects
+- 🌱 Learning: JavaScript, SQL, DevOps
+- 🎯 Goal: 6-digit developer 💸
+- ⚡ Fun fact: I love building systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+- Facebook: 
+- Email: dev.jezreeljames@gmail.com
