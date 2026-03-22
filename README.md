@@ -41,7 +41,7 @@
 ## 📫 Connect
 
 * 📧 Email: [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)
-* 🌐 Facebook: 
+* 🌐 Facebook: https://www.facebook.com/dev.jezcruz
 
 ---
 
