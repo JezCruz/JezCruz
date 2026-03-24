@@ -41,8 +41,9 @@
 ## 📫 Connect
 
 * 📧 Email: [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)
-* 🌐 Facebook: https://www.facebook.com/dev.jezcruz
-
+* 𝓕ᥫ᭡ Facebook: https://www.facebook.com/dev.jezcruz
+# Fortpolio:
+* 🌐 Website: https:jezcruz.github.io
 ---
 
 <p align="center">
