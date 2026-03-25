@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jez</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JezCruz&label=Profile%20views&color=lightgreen&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JezCruz&label=Profile%20views&color=6ae605&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
