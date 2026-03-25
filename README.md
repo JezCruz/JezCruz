@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jez</h1>
+
 <p align="center">
-💻 Aspiring Developer • 🚀 Currently Learning • 🎯 Future 6-Digit Dev
+  <img src="https://komarev.com/ghpvc/?username=JezCruz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+💻 Aspiring Software Developer • 🚀 Building Real Projects • 🎯 Future Full-Stack Developer
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently building: Python projects & systems
-* 🌱 Learning: JavaScript, SQL, DevOps
-* 🎯 Goal: Become a solid full-stack developer
-* ⚡ Mindset: Consistency > Motivation
+* 🔭 Currently building real-world projects using Python & Web Technologies  
+* 🌱 Learning JavaScript, SQL, and DevOps fundamentals  
+* 🎯 Goal: Become a solid full-stack developer  
+* ⚡ Mindset: Consistency > Motivation  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git" />
 </p>
 
@@ -38,15 +43,28 @@
 
 ---
 
+## 📂 Projects
+
+* 🔐 Simple Login System (Web) – HTML, CSS, JavaScript  
+* 🌐 Portfolio Website – GitHub Pages Deployment  
+* 🧪 Python Mini Systems – CLI-based applications  
+
+---
+
 ## 📫 Connect
 
-* 📧 Email: [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)
-* 𝓕ᥫ᭡ Facebook: https://www.facebook.com/dev.jezcruz
+* 📧 Email: dev.jezreeljames@gmail.com  
+* 🌐 GitHub: https://github.com/JezCruz  
+* 📘 Facebook: https://www.facebook.com/dev.jezcruz  
+
 ---
-# 📂 Portfolio
-* 🌐 Website: https://jezcruz.github.io
+
+## 🌐 Portfolio
+
+* 🚀 Live Site: https://jezcruz.github.io  
+
 ---
 
 <p align="center">
-⚡ “Start simple. Stay consistent. Build real projects.”
+⚡ "Start simple. Stay consistent. Build real projects."
 </p>
