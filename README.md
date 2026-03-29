@@ -15,7 +15,9 @@
 * 🔭 Currently building real-world projects using Python & Web Technologies  
 * 🌱 Learning JavaScript, SQL, and DevOps fundamentals  
 * 🎯 Goal: Become a solid full-stack developer  
-* ⚡ Mindset: Consistency > Motivation  
+* ⚡ Mindset: Consistency > Motivation
+* ✝️ I believe Jesus Christ is the way
+  --- I can do all things through Him who strengthens me. ---
 
 ---
 
