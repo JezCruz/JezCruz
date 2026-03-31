@@ -42,7 +42,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JezCruz&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=JezCruz&theme=radical" />
 </p>
 
 ---
