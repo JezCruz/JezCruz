@@ -35,8 +35,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JezCruz&show_icons=true&theme=radical" />
 </p>
 
-
-
 ---
 
 ## 🔥 Streak
@@ -47,6 +45,13 @@
 
 ---
 
+## 📈 Actvity Graph
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JezCruz&theme=radical">
+</p>
+
+---
 ## 📂 Projects
 
 * 🔐 Simple Login System (Web) – HTML, CSS, JavaScript  
