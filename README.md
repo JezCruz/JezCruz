@@ -19,7 +19,8 @@
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse
 <!--START_SECTION:bible-->
-Loading...
+Proverbs 3:5
+Trust in the Lord with all your heart and lean not on your own understanding.
 <!--END_SECTION:bible-->
 ---
 
