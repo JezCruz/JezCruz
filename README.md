@@ -28,6 +28,13 @@
 </p>
 
 ---
+## 📡 Live Dev Status
+
+<!--START_SECTION:dev-->
+Loading...
+<!--END_SECTION:dev-->
+
+---
 
 ## 📊 GitHub Stats
 
