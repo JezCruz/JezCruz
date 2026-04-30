@@ -59,6 +59,26 @@
 * 🧪 Python Mini Systems – CLI-based applications  
 
 ---
+## 🚀 Main Project
+
+### 🎓 Skillvine (In Development)
+
+A full-stack learning platform where users can:
+- 📚 Book lessons with teachers
+- 💰 Use coins system for payments
+- 📊 Track learning progress
+- 👨‍🏫 Role-based system (Teacher / Student)
+
+#### 🛠️ Built with:
+- Django (Backend API)
+- SQLite / PostgreSQL
+- React Native (Expo) – Mobile App
+- Ubuntu Server (Deployment)
+
+#### ⚡ Status:
+🟢 Active Development
+
+---
 
 ## 📫 Connect
 
