@@ -17,8 +17,7 @@
 * 🎯 Goal: Become a solid full-stack developer  
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
-* --- I can do all things through Him who strengthens me. ---
-✝️ Verse
+* - - - ✝️ Verse - - - 
 <!--START_SECTION:bible-->
 Loading...
 <!--END_SECTION:bible-->
