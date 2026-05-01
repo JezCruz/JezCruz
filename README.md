@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-Proverbs 3:5
-Trust in the Lord with all your heart and lean not on your own understanding.
+Romans 10:9
+If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised Him from the dead, you will be saved.
 <!--END_SECTION:bible-->
 ---
 
