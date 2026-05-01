@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-John 3:16
-For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.
+Jeremiah 29:11
+For I know the plans I have for you, declares the Lord.
 <!--END_SECTION:bible-->
 ---
 
