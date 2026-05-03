@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-Romans 10:9
-If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised Him from the dead, you will be saved.
+Jeremiah 29:11
+For I know the plans I have for you, declares the Lord.
 <!--END_SECTION:bible-->
 ---
 
