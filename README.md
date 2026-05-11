@@ -26,7 +26,7 @@ Trust in the Lord with all your heart and lean not on your own understanding.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,nodejs,react,fastapi,postgres,docker" />
 </p>
 
 ---
