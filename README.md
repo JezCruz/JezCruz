@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-Jeremiah 29:11
-For I know the plans I have for you, declares the Lord.
+Philippians 4:13
+I can do all things through Him who strengthens me.
 <!--END_SECTION:bible-->
 ---
 
