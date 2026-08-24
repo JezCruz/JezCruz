@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-Proverbs 3:5
-Trust in the Lord with all your heart and lean not on your own understanding.
+Jeremiah 29:11
+For I know the plans I have for you, declares the Lord.
 <!--END_SECTION:bible-->
 ---
 
