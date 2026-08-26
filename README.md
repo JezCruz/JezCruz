@@ -18,8 +18,8 @@
 * ⚡ Mindset: Consistency > Motivation
 * ✝️ I believe Jesus Christ is the way
 * ✝️ Verse: ~ <!--START_SECTION:bible-->
-Proverbs 3:5
-Trust in the Lord with all your heart and lean not on your own understanding.
+Philippians 4:13
+I can do all things through Him who strengthens me.
 <!--END_SECTION:bible-->
 ---
 
