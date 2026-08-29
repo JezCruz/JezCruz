@@ -55,7 +55,7 @@ Last update: 2026-08-29 06:45:24 UTC
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JezCruz&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JezCruz&theme=tokyonight" />
 </p>
 
 ---
