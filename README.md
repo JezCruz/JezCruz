@@ -47,7 +47,7 @@ Last update: 2026-08-29 06:45:24 UTC
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JezCruz&show_icons=true&theme=radical" alt="JezCruz's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JezCruz&theme=onedark" alt="JezCruz Trophies" />
 </p>
 
 ---
