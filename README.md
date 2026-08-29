@@ -15,100 +15,84 @@
 * 🔭 Currently building real-world projects using Python & Web Technologies  
 * 🌱 Learning JavaScript, SQL, and DevOps fundamentals  
 * 🎯 Goal: Become a solid full-stack developer  
-* ⚡ Mindset: Consistency > Motivation
-* ✝️ I believe Jesus Christ is the way
-* ✝️ Verse: ~ <!--START_SECTION:bible-->
-Jeremiah 29:11
-For I know the plans I have for you, declares the Lord.
-<!--END_SECTION:bible-->
+* ⚡ Mindset: Consistency > Motivation  
+* ✝️ I believe Jesus Christ is the way  
+* ✝️ **Verse:**  
+  <!--START_SECTION:bible-->
+  *Jeremiah 29:11* — *"For I know the plans I have for you, declares the Lord."*
+  <!--END_SECTION:bible-->
+
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,nodejs,react,fastapi,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,nodejs,react,fastapi,postgres,docker" alt="Tech Stack" />
 </p>
 
 ---
+
 ## 📡 Live Dev Status
 
 <!--START_SECTION:dev-->
-Last update: 2026-08-29 06:45:24 UTC
+**Last update:** `2026-08-29 06:45:24 UTC`  
 
-🚀 Main Project: Skillvine
-🟢 Status: Active Development
-🛠️ Focus: Django API + Expo Mobile App
-📚 Learning: Full-stack development, deployment, and DevOps
-
+🚀 **Main Project:** Skillvine  
+🟢 **Status:** Active Development  
+🛠️ **Focus:** Django API + Expo Mobile App  
+📚 **Learning:** Full-stack development, deployment, and DevOps  
 <!--END_SECTION:dev-->
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/JezCruz" alt="JezCruz GitHub Contributions Chart" />
 </p>
 
----
-
-## 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JezCruz&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JezCruz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JezCruz&theme=solarized_dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 📈 Actvity Graph
+## 🎓 Featured Project: Skillvine
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JezCruz&theme=solarized_dark" alt="GitHub Graph" />
-</p>
+A full-stack learning platform where users can book lessons, manage coin-based payments, and track learning progress.
 
----
-## 📂 Projects
+**Key Features:**
+* 📚 Book lessons with teachers
+* 💰 Coins system for payments
+* 📊 Track learning progress
+* 👨‍🏫 Role-based system (Teacher / Student)
 
-* 🔐 Simple Login System (Web) – HTML, CSS, JavaScript  
-* 🌐 Portfolio Website – GitHub Pages Deployment  
-* 🧪 Python Mini Systems – CLI-based applications  
-
----
-## 🚀 Main Project
-
-### 🎓 Skillvine (In Development)
-
-A full-stack learning platform where users can:
-- 📚 Book lessons with teachers
-- 💰 Use coins system for payments
-- 📊 Track learning progress
-- 👨‍🏫 Role-based system (Teacher / Student)
-
-#### 🛠️ Built with:
-- Django (Backend API)
-- SQLite / PostgreSQL
-- React Native (Expo) – Mobile App
-- Ubuntu Server (Deployment)
-
-#### ⚡ Status:
-🟢 Active Development
+**Tech Stack:** `Django` • `PostgreSQL / SQLite` • `React Native (Expo)` • `Ubuntu Server`  
+**Status:** 🟢 Active Development
 
 ---
 
-## 📫 Connect
+## 📂 Other Projects
 
-* 📧 Email: dev.jezreeljames@gmail.com  
-* 🌐 GitHub: https://github.com/JezCruz  
-* 📘 Facebook: https://www.facebook.com/dev.jezcruz  
+* 🔐 **Simple Login System (Web)** – HTML, CSS, JavaScript  
+* 🌐 **Portfolio Website** – GitHub Pages Deployment  
+* 🧪 **Python Mini Systems** – CLI-based applications  
 
 ---
 
-## 🌐 Portfolio
+## 📫 Connect & Links
 
-* 🚀 Live Site: https://jezcruz.github.io  
+* 📧 **Email:** [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)  
+* 🌐 **Portfolio:** [jezcruz.github.io](https://jezcruz.github.io)  
+* 📘 **Facebook:** [dev.jezcruz](https://www.facebook.com/dev.jezcruz)  
+* 🐙 **GitHub:** [@JezCruz](https://github.com/JezCruz)  
 
 ---
 
 <p align="center">
-⚡ "Start simple. Stay consistent. Build real projects."
+⚡ <i>"Start simple. Stay consistent. Build real projects."</i>
 </p>
