@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+<p allign="center">## 📊 GitHub Stats & Activity</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/JezCruz" alt="JezCruz GitHub Contributions Chart" />
