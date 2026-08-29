@@ -63,7 +63,7 @@ Last update: 2026-08-29 06:45:24 UTC
 ## 📈 Actvity Graph
 
 <p align="center">
-  <img src="http://github-readme-activity-graph.vercel.app/graph?username=JezCruz&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JezCruz&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
