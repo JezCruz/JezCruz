@@ -63,7 +63,7 @@ Last update: 2026-08-29 06:45:24 UTC
 ## 📈 Actvity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JezCruz&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JezCruz&theme=solarized_dark" alt="GitHub Graph" />
 </p>
 
 ---
