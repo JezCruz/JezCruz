@@ -19,8 +19,8 @@
 * ✝️ I believe Jesus Christ is the way  
 * ✝️ **Verse:**  
   <!--START_SECTION:bible-->
-Philippians 4:13
-I can do all things through Him who strengthens me.
+Jeremiah 29:11
+For I know the plans I have for you, declares the Lord.
 <!--END_SECTION:bible-->
 
 ---
