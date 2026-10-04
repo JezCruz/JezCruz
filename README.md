@@ -33,60 +33,7 @@ I can do all things through Him who strengthens me.
 
 ---
 
-## 📡 Live Dev Status
-
-<!--START_SECTION:dev-->
-Last update: 2026-10-04 12:10:00 UTC
-
-🚀 Main Project: Skillvine
-🟢 Status: Active Development
-🛠️ Focus: Django API + Expo Mobile App
-📚 Learning: Full-stack development, deployment, and DevOps
-
-<!--END_SECTION:dev-->
-
----
-
-## <p align="center"> 📊 GitHub Stats & Activity</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/JezCruz" alt="JezCruz GitHub Contributions Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JezCruz&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JezCruz&theme=solarized_dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🎓 Featured Project: Skillvine
-
-A full-stack learning platform where users can book lessons, manage coin-based payments, and track learning progress.
-
-**Key Features:**
-* 📚 Book lessons with teachers
-* 💰 Coins system for payments
-* 📊 Track learning progress
-* 👨‍🏫 Role-based system (Teacher / Student)
-
-**Tech Stack:** `Django` • `PostgreSQL / SQLite` • `React Native (Expo)` • `Ubuntu Server`  
-**Status:** 🟢 Active Development
-
----
-
-## 📂 Other Projects
-
-* 🔐 **Simple Login System (Web)** – HTML, CSS, JavaScript  
-* 🌐 **Portfolio Website** – GitHub Pages Deployment  
-* 🧪 **Python Mini Systems** – CLI-based applications  
-
----
-
-## 📫 Connect & Links
+## Connect & Links
 
 * 📧 **Email:** [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)  
 * 🌐 **Portfolio:** [jezcruz.github.io](https://jezcruz.github.io)  
