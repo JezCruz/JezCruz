@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jez</h1>
+<h1 align="center">Hi, I'm Jez</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JezCruz&label=Profile%20views&color=2e5e0e&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-💻 Aspiring Software Developer • 🚀 Building Real Projects • 🎯 Future Full-Stack Developer
+💻 Aspiring Software Developer • Building Real Projects • Future Full-Stack Developer
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🔭 Currently building real-world projects using Python & Web Technologies  
-* 🌱 Learning JavaScript, SQL, and DevOps fundamentals  
-* 🎯 Goal: Become a solid full-stack developer  
-* ⚡ Mindset: Consistency > Motivation  
-* ✝️ I believe Jesus Christ is the way  
+*  Currently building real-world projects using Python & Web Technologies  
+*  Learning JavaScript, SQL, and DevOps fundamentals  
+*  Goal: Become a solid full-stack developer  
+*  Mindset: Consistency > Motivation  
+*  I believe Jesus Christ is the way  
 * ✝️ **Verse:**  
 <!--START_SECTION:bible-->
 Philippians 4:13
@@ -25,7 +25,7 @@ I can do all things through Him who strengthens me.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,nodejs,react,fastapi,postgres,docker" alt="Tech Stack" />
@@ -33,15 +33,15 @@ I can do all things through Him who strengthens me.
 
 ---
 
-## 📡 Live Dev Status
+## Live Dev Status
 
 <!--START_SECTION:dev-->
 Last update: 2026-10-04 12:10:00 UTC
 
-🚀 Main Project: Skillvine
-🟢 Status: Active Development
-🛠️ Focus: Django API + Expo Mobile App
-📚 Learning: Full-stack development, deployment, and DevOps
+ Main Project: Skillvine
+ Status: Active Development
+ Focus: Django API + Expo Mobile App
+ Learning: Full-stack development, deployment, and DevOps
 
 <!--END_SECTION:dev-->
 
@@ -59,39 +59,38 @@ Last update: 2026-10-04 12:10:00 UTC
 
 ---
 
-## 🎓 Featured Project: Skillvine
+## Featured Project: Skillvine
 
 A full-stack learning platform where users can book lessons, manage coin-based payments, and track learning progress.
 
 **Key Features:**
-* 📚 Book lessons with teachers
-* 💰 Coins system for payments
-* 📊 Track learning progress
-* 👨‍🏫 Role-based system (Teacher / Student)
+*  Book lessons with teachers
+*  Coins system for payments
+*  Track learning progress
+*  Role-based system (Teacher / Student)
 
 **Tech Stack:** `Django` • `PostgreSQL / SQLite` • `React Native (Expo)` • `Ubuntu Server`  
 **Status:** 🟢 Active Development
 
 ---
 
-## 📂 Other Projects
+## Other Projects
 
-* 🔐 **Simple Login System (Web)** – HTML, CSS, JavaScript  
-* 🌐 **Portfolio Website** – GitHub Pages Deployment  
-* 🧪 **Python Mini Systems** – CLI-based applications  
+*  **Simple Login System (Web)** – HTML, CSS, JavaScript  
+*  **Portfolio Website** – GitHub Pages Deployment  
+*  **Python Mini Systems** – CLI-based applications  
 
 ---
 
-## 📫 Connect & Links
-## Connect & Links
+##  Connect & Links
 
-* 📧 **Email:** [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)  
-* 🌐 **Portfolio:** [jezcruz.github.io](https://jezcruz.github.io)  
-* 📘 **Facebook:** [dev.jezcruz](https://www.facebook.com/dev.jezcruz)  
-* 🐙 **GitHub:** [@JezCruz](https://github.com/JezCruz)  
+*  **Email:** [dev.jezreeljames@gmail.com](mailto:dev.jezreeljames@gmail.com)  
+*  **Portfolio:** [jezcruz.github.io](https://jezcruz.github.io)  
+*  **Facebook:** [dev.jezcruz](https://www.facebook.com/dev.jezcruz)  
+*  **GitHub:** [@JezCruz](https://github.com/JezCruz)  
 
 ---
 
 <p align="center">
-⚡ <i>"Start simple. Stay consistent. Build real projects."</i>
+<i>"Start simple. Stay consistent. Build real projects."</i>
 </p>
