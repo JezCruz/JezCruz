@@ -47,11 +47,7 @@ Last update: 2026-10-04 12:10:00 UTC
 
 ---
 
-## <p align="center"> 📊 GitHub Stats & Activity</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/JezCruz" alt="JezCruz GitHub Contributions Chart" />
-</p>
+## <h2 align="center">GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JezCruz&theme=tokyonight" alt="Streak Stats" />
